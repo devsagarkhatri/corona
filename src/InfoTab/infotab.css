@@ -1,0 +1,19 @@
+.infotab_card {
+  border-width: 3px !important;
+  transition: 0.5s;
+  background: transparent !important;
+  box-shadow: -1px 4px 29px -20px rgba(0, 0, 0, 0.75) !important;
+  -webkit-box-shadow: -1px 4px 29px -20px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: -1px 4px 29px -20px rgba(0, 0, 0, 0.75);
+}
+
+.infotab_card:hover {
+  border-width: 5px !important;
+  transition: 0.5s;
+  background: rgba(255, 255, 255, 0.4) !important;
+  box-shadow: -1px 4px 20px -13px rgba(0, 0, 0, 0.75) !important;
+  -webkit-box-shadow: -1px 4px 20px -13px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: -1px 4px 20px -13px rgba(0, 0, 0, 0.75);
+}
+.infotab_card_heading {
+}
